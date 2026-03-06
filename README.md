@@ -1,23 +1,41 @@
-# Mediumish - Jekyll Theme
+# Personal Website Irwan Asikin
 
-[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
+Personal blog about Linux, open source, random tech experiments, and occasional opinions.
 
-![mediumish](assets/images/mediumish-jekyll-template.png)
+This website is built using Jekyll and deployed with GitHub Pages.
 
+## About
 
-### Copyright
+This blog is a place where I write about things I learn, experiment with, or simply find interesting in the world of technology.
 
-Copyright (C) 2019 Sal, https://www.wowthemes.net
+Topics may include:
 
-**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
+- Linux
+- Open source software
+- DevOps and infrastructure
+- Random tech experiments
+- Personal thoughts about technology
 
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+The blog is written by someone with a background in animal science who somehow fell down the Linux rabbit hole.
 
-### Contribute
+Tech Stack
 
-1. [Fork the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
-2. Clone a copy of your fork on your local
-3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
-4. Make necessary changes, commit, push and open a pull request on GitHub.
+- Jekyll
+- GitHub Pages
+- Markdown
 
-Thank you!
+## Theme
+
+This site is based on the Mediumish Jekyll Theme.
+
+Original theme: [mediumish](https://github.com/codebygina/mediumish-theme-jekyll)
+
+## License
+
+The original theme is licensed under the MIT License.
+
+Content written on this blog belongs to the author unless stated otherwise.
+
+---
+
+© 2026 M. Irwan Asikin

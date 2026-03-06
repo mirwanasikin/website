@@ -3,6 +3,14 @@ Template Name: Mediumish
 Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
 License: https://www.wowthemes.net/freebies-license/ 
 */
+
+@font-face {
+    font-family: 'FiraCode Nerd Font';
+    src: url('../fonts/FiraCodeNerdFont-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 @media screen and (min-width:1500px) {
     html { font-size:18px; } /* Increase the font size on higher resolutions */
     .container {max-width:80%;}
@@ -99,6 +107,8 @@ section.recent-posts {
 
 @media (min-width:992px) {
     .navbar-expand-lg .navbar-nav .nav-link {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 700;
         padding-right: 0.8rem;
         padding-left: 0.8rem;
     }
@@ -279,6 +289,7 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .navbar-brand {
+    font-family: 'Montserrat', sans-serif;
     font-weight: 500;
 }
 
@@ -898,4 +909,8 @@ iframe {
 .lazyimg[data-srcset] {
     opacity: 0;
     transition: opacity .25s;
+}
+
+code, pre, kbd {
+    font-family: 'FiraCode Nerd Font', monospace;
 }
