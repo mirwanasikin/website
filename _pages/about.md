@@ -7,10 +7,11 @@ permalink: /about
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Halo, saya Irwan. Latar belakang saya sebenarnya bukan dari dunia teknologi, melainkan dari peternakan. Ya, cukup jauh dari komputer, server, atau terminal.
-Tapi entah bagaimana, saya justru jatuh cinta dengan Linux. Awalnya hanya sekadar penasaran, lalu berubah jadi kebiasaan mengutak-atik sistem, mencoba berbagai tools, dan memahami bagaimana sesuatu bekerja di balik layar.
-Blog ini saya gunakan sebagai tempat menulis tentang hal-hal yang saya temui selama perjalanan itu: Linux, open source, berbagai eksperimen teknologi, dan kadang juga opini pribadi tentang dunia teknologi.
-Sebagian tulisan di sini mungkin hanya catatan kecil atau dokumentasi dari hal-hal yang saya pelajari. Tapi kalau ada yang bisa mengambil manfaat dari tulisan-tulisan tersebut, itu sudah lebih dari cukup.</p>
+<p>Halo, aku Irwan.
+Latar belakangku bukan dari tech aku sarjana peternakan. Ya, yang ngurusin sapi, bukan server. 🐄
+Tapi entah gimana, aku malah jatuh terlalu dalam ke dunia Linux dan open source. Dari sekadar penasaran, sampai sekarang jadi kebiasaan ngutak-ngatik sistem, nyobain tools, dan obsesi ngerti cara kerja sesuatu di balik layar.
+Blog ini tempat aku nulis hal-hal yang aku temuin di perjalanan itu Linux, DevOps, opini tech, dan kadang random thoughts yang gak ada hubungannya sama teknologi sama sekali.
+Gak ada pretensi jadi expert di sini. Ini cuma sudut pandangku bias, jujur, dan kadang salah.</p>
 
 </div>
 
