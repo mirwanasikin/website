@@ -2,7 +2,7 @@
 layout: post
 title: "Power User Windows Justru Lebih Sulit Pindah ke Linux"
 author: irwan
-categories: [Linux]
+categories: [Linux, Indonesia]
 --- 
 
 Ada miskonsepsi yang sering aku dengar:
@@ -67,10 +67,10 @@ Setelah install, jangan langsung judge.
 
 Paksa dirimu pakai Linux selama seminggu penuh. Buka terminal, coba command-command dasarnya, adaptasi workflow baru. Dan yang paling penting: **catat semua kesulitan yang kamu temuin.**
 
-Bukan untuk komplain — tapi supaya setelah seminggu, kamu punya data yang jujur buat mutusin: *worth it gak buat aku?*
+Bukan untuk komplain tapi supaya setelah seminggu, kamu punya data yang jujur buat mutusin: *worth it gak buat aku?*
 
 Keputusan pindah ke Linux yang baik bukan keputusan yang impulsif. Itu keputusan yang dibuat setelah kamu tau persis apa yang kamu masuki.
 
 ---
 
-*Linux bukan untuk semua orang — dan itu bukan hal yang buruk.*
+*Linux bukan untuk semua orang dan itu bukan hal yang buruk.*
