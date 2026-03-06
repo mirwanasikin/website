@@ -3,7 +3,6 @@ layout: post
 title: "Kenapa Aku Pakai Linux"
 author: irwan
 categories: [Linux, Tech, OS]
-featured: true
 --- 
 
 Kenapa Aku Beralih ke Linux
