@@ -2,8 +2,9 @@
 name: "Irwan Asikin"
 title: "Irwan Asikin"
 description: "Blog Pribadi tentang Linux, Open Source, Random Tech Stuff dan Opini Pribadi"
-logo: ''
-favicon: ''
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+url: "https://irwanasikin.my.id"
 baseurl: ""
 google_analytics: ''
 disqus: ''
@@ -16,7 +17,7 @@ authors:
   irwan:
     name: Irwan Asikin
     display_name: Irwan Asikin
-    avatar: 'assets/images/logo.jpg'
+    avatar: 'assets/images/profile.jpg'
     email: mirwanasikin@proton.me
     web: https://irwanasikin.my.id
     twitter: https://x.com/mirwanasikin
@@ -54,8 +55,8 @@ kramdown:
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
+adsense-data-ad-client: ""
+adsense-data-ad-slot: ""
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"

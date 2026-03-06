@@ -13,7 +13,7 @@ Jawaban jujurnya: bukan karena itu. 😅
 
 ---
 
-### 🔐 Keamanan?
+### Keamanan?
 
 Not Really.
 
@@ -21,7 +21,7 @@ Faktanya gak ada sistem yang 100% aman. Server Linux diserang setiap hari kok. A
 
 ---
 
-### 🕵️ Privasi?
+### Privasi?
 
 Kalau kamu masih aktif di media sosial, jujur saja: privasi agak sulit dibicarakan.
 
@@ -31,7 +31,7 @@ Kalian bisa saja pakai Linux dan merasa kalian private tanpa sadar kalau kalian 
 
 ---
 
-### ⚙️ Stabilitas?
+### Stabilitas?
 
 Yang ini sedikit teknis.
 
@@ -51,7 +51,7 @@ Spesifikasi laptopku:
 yap ini keluaran tahun 2010
 
 
-Menjalankan Windows di hardware seperti itu di tahun 2026 benar-benar terasa berat. Boot lama, banyak proses latar belakang yang tidak jelas, dan update yang kadang memakan ruang penyimpanan.
+Menjalankan Windows di hardware seperti itu di tahun 2026 benar-benar tersiksa. Boot lama, banyak proses latar belakang yang tidak jelas, dan update yang kadang memakan ruang penyimpanan.
 Linux hanyalah pilihan yang paling masuk akal untuk hardware yang sudah mulai tua.
 Dan satu hal lagi *i'm broke*. 😅
 
@@ -62,3 +62,5 @@ Menurutku, kamu tidak perlu beralih ke Linux karena ideologi.
 Beralihlah kalau Linux memang menyelesaikan masalah yang kamu punya.
 Buatku, Linux melakukan itu.
 Dan entah bagaimana, dari sekadar ingin membuat laptop lama tetap bisa dipakai… aku malah jatuh terlalu dalam ke dunia Linux — dan sampai sekarang belum pernah benar-benar keluar dari lubang kelinci itu. 🗿
+
+

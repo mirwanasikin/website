@@ -311,8 +311,12 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .navbar-brand img {
-    max-height: 30px;
+    /*max-height: 30px;*/
     margin-right: 5px;
+    height: 45px;
+    width: 45px;
+    object-fit: cover;
+    border-radius: 8px
 }
 
 .mainheading h1.sitetitle {
