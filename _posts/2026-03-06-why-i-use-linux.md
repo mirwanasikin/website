@@ -1,19 +1,19 @@
---- 
+---
 layout: post
 title: "Kenapa Aku Pakai Linux"
 author: irwan
 categories: [Linux]
---- 
+---
 
 Orang-orang bertanya kepadaku kenapa sih aku pakai Linux?
 
-Mereka nebak: *"Pasti karena keamanan ya?"* atau *"Pasti karena masalah privasi"* atau *"Pasti mencari yang stabil"*
+Mereka nebak: _"Pasti karena keamanan ya?"_ atau _"Pasti karena masalah privasi"_ atau _"Pasti mencari yang stabil"_
 
-Jawabannya bukan karena itu semua. 
+Jawabannya bukan karena itu semua.
 
---- 
+---
 
-### Keamanan, Privasi dan Stabilitas - Iya tapi tidak 
+### Keamanan, Privasi dan Stabilitas - Iya tapi tidak
 
 **Keamanan?** Linux lebih aman by design SELinux, permission system yang ketat, dsb. Tapi gak ada sistem yang 100% aman. Server Linux diserang setiap hari. Kalau virusnya keliatan lebih sedikit di desktop, itu kombinasi desain sistem dan pangsa pasar yang kecil. Target kecil = penyerang lebih sedikit.
 
@@ -28,10 +28,11 @@ Semua poin di atas valid. Tapi bukan itu alasan aku.
 ### Alasan Sebenarnya: Laptopku Kentang dan Aku Bokek
 
 Ini laptopku:
+
 - Toshiba Satellite A665-S5170
 - Intel Core i3 M380
 - RAM 8GB DDR3
-- SSD SATA II 512GB 
+- SSD SATA II 512GB
 
 Menjalankan Windows di hardware itu di tahun 2026 bukan pengalaman itu siksaan. Boot lama, proses background yang entah ngapain, update yang tiba-tiba makan storage.
 Linux bukan pilihan ideologis. Linux adalah pilihan paling masuk akal untuk hardware yang udah mulai menua.
@@ -52,4 +53,4 @@ Dan entah bagaimana dari sekadar pengen bikin laptop lama tetap hidup aku malah 
 
 Sampai sekarang belum pernah beneran keluar dari lubang kelinci itu. 🗿
 
-*Dan aku rasa, aku gak mau keluar juga.*
+_Dan aku rasa, aku gak mau keluar juga._

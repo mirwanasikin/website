@@ -1,13 +1,13 @@
---- 
+---
 layout: post
 title: "Power User Windows Justru Lebih Sulit Pindah ke Linux"
 author: irwan
 categories: [Linux, Indonesia]
---- 
+---
 
 Ada miskonsepsi yang sering aku dengar:
 
-*"Linux itu untuk power user, bukan orang awam."*
+_"Linux itu untuk power user, bukan orang awam."_
 
 Faktanya? Kebalikannya yang lebih sering benar.
 
@@ -38,7 +38,7 @@ Kalau kamu pakai salah satu atau lebih dari ketiga ini, aku tidak rekomendasikan
 
 Hell no.
 
-Bisa? Secara teknis, dengan cukup penderitaan ya. Tapi kamu tidak ingin menghabiskan tiga hari debugging Wine, PlayOnLinux, atau VM hanya supaya Microsoft Office *lumayan* jalan lalu blank total setiap kali ada update.
+Bisa? Secara teknis, dengan cukup penderitaan ya. Tapi kamu tidak ingin menghabiskan tiga hari debugging Wine, PlayOnLinux, atau VM hanya supaya Microsoft Office _lumayan_ jalan lalu blank total setiap kali ada update.
 
 Hidupmu lebih berharga dari itu.
 
@@ -67,10 +67,10 @@ Setelah install, jangan langsung judge.
 
 Paksa dirimu pakai Linux selama seminggu penuh. Buka terminal, coba command-command dasarnya, adaptasi workflow baru. Dan yang paling penting: **catat semua kesulitan yang kamu temuin.**
 
-Bukan untuk komplain tapi supaya setelah seminggu, kamu punya data yang jujur buat mutusin: *worth it gak buat aku?*
+Bukan untuk komplain tapi supaya setelah seminggu, kamu punya data yang jujur buat mutusin: _worth it gak buat aku?_
 
 Keputusan pindah ke Linux yang baik bukan keputusan yang impulsif. Itu keputusan yang dibuat setelah kamu tau persis apa yang kamu masuki.
 
 ---
 
-*Linux bukan untuk semua orang dan itu bukan hal yang buruk.*
+_Linux bukan untuk semua orang dan itu bukan hal yang buruk._
