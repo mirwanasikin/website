@@ -38,3 +38,7 @@ So gua pilih CLI bukan karena lebih keren tapi sesuai dengan karakter gua dan gu
 > ***With great power comes with great responsibility***
 
 Dan ya gua mau great power tersebut.
+
+``` bash 
+echo "Hello World"
+```

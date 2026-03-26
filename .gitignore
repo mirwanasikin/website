@@ -4,4 +4,6 @@ _site
 .sass-cache
 *~
 .markdownlint.json
+.bundle/
+.jekull-cache/
 
