@@ -7,8 +7,6 @@ author: irwan
 categories: [Linux, Indonesia]
 ---
 
-## Distro Linux yang Gua Pakai
-
 Jadi mungkin banyak dari kalian mikir kalau gua bakal pakai Arch atau Ubuntu.  
 Apalagi kalau kalian tahu gua cukup lama di dunia Linux.
 
