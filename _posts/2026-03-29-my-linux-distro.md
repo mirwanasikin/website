@@ -7,36 +7,36 @@ author: irwan
 categories: [Linux, Indonesia]
 ---
 
-Jadi mungkin banyak dari kalian mikir kalau gua bakal pakai Arch atau Ubuntu.  
-Apalagi kalau kalian tahu gua cukup lama di dunia Linux.
-
-Tapi sekarang… gua justru pakai **NixOS**.
-
-Kenapa?  
-Padahal ada Arch yang fleksibel atau Ubuntu yang terkenal stabil.
+Gua udah nyobain banyak distro. Dari yang "just works" sampai yang bikin kepala mau meledak.
+Dan ujung-ujungnya? Gua malah settle di yang paling ribet — NixOS.
+Bukan karena gua suka menyiksa diri. Tapi karena setelah nyobain banyak hal, gua nyadar: yang gua cari bukan distro yang mudah, tapi distro yang konsisten.
+Dan NixOS adalah jawabannya. Dengan segala trade-off-nya.
 
 ---
 
 ## Distro Immutable… tapi Nggak Immutable?
 
-Kalau kalian pernah nyari distro immutable, biasanya bakal nemu list kayak gini:
 
-- Fedora Atomic / Silverblue  
-- Ubuntu Core  
-- openSUSE MicroOS  
-- Vanilla OS  
-- NixOS  
-- GNU Guix  
-- dll  
+Distro Immutable… tapi Nggak Immutable?
+Kalau kalian nyari distro immutable, biasanya bakal nemu nama-nama kayak:
 
-Biasanya, distro immutable itu identik dengan sistem yang *read-only* atau nggak bisa diubah sembarangan.
+- Fedora Atomic / Silverblue
+- openSUSE MicroOS
+- Vanilla OS
+- NixOS
+- GNU Guix
 
-Dan ya, itu benar… untuk kebanyakan distro.
+Kebanyakan distro di list itu immutable dalam artian harfiah: file system-nya read-only, dan perubahan hanya bisa terjadi - lewat update resmi atau overlay terpisah.
 
-Tapi NixOS agak beda.
+NixOS beda.
 
-Dia sering dimasukin ke kategori immutable, tapi kenyataannya **file system-nya tetap bisa diubah**.  
-Bedanya, perubahan itu nggak dilakukan secara bebas seperti distro lain.
+File system-nya bisa diubah. Tapi bukan itu intinya.
+
+Yang bikin NixOS "immutable" bukan karena sistem-nya dikunci — tapi karena setiap perubahan dikelola lewat Nix store, bukan dilempar langsung ke `/usr` atau `/lib` kayak distro biasa. Package nggak saling overwrite, dependency nggak bentrok, dan setiap "state" sistem bisa di-rollback.
+
+Jadi kalau lu nanya: *"Apakah NixOS benar-benar immutable?"*
+
+Jawabannya: tergantung definisi lu. Tapi yang pasti, cara dia mengelola perubahan jauh lebih ketat — dan lebih aman — dari distro konvensional.
 
 ---
 
@@ -105,24 +105,14 @@ Kalau di satu tempat jalan, kemungkinan besar di tempat lain juga jalan.
 
 ---
 
-## Siapa yang Cocok Pakai NixOS?
+## Penutup
 
-Menurut gua:
+**Jadi, Apakah worth It?*
 
-- DevOps / Platform Engineer  
-- Developer yang butuh reproducibility  
-- Orang yang suka sistem rapi dan terstruktur  
-
----
-
-## Siapa yang Nggak Cocok?
-
-Jujur aja, NixOS bukan buat semua orang.
-
-Mungkin nggak cocok kalau:
-
-- Lu pengen install sesuatu dengan cepat tanpa mikir  
-- Nggak mau ribet sama konfigurasi  
-- Lebih nyaman dengan cara “tradisional” Linux  
+Gua nggak bakal bilang NixOS itu untuk semua orang. Karena jelas bukan.
+Tapi kalau lu tipe orang yang lebih milih paham sistem daripada sekadar pakai sistem — NixOS itu bukan distro yang ribet. Dia distro yang jujur.
+Dia maksa lu buat ngerti apa yang lu lakuin. Dan di situ justru letak value-nya.
+Gua pribadi nggak nyesel. Justru setelah pakai NixOS, gua lebih ngerti Linux secara keseluruhan — bukan cuma hafal command.
+Kalau lu penasaran, coba aja. Worst case: lu balik ke distro lama dengan pemahaman yang lebih dalam. Best case: lu nggak balik-balik lagi.
 
 ---
