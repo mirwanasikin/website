@@ -7,8 +7,8 @@ author: irwan
 categories: [Linux, Indonesia]
 ---
 
-Gua udah nyobain banyak distro. Dari yang "just works" sampai yang bikin kepala mau meledak.
-Dan ujung-ujungnya? Gua malah settle di yang paling ribet — NixOS.
+Gua udah nyobain banyak distro. Dari yang *Just work* sampai yang bikin kepala mau meledak.
+Dan ujung-ujungnya? Gua malah settle di yang paling ribet NixOS.
 Bukan karena gua suka menyiksa diri. Tapi karena setelah nyobain banyak hal, gua nyadar: yang gua cari bukan distro yang mudah, tapi distro yang konsisten.
 Dan NixOS adalah jawabannya. Dengan segala trade-off-nya.
 
@@ -32,11 +32,11 @@ NixOS beda.
 
 File system-nya bisa diubah. Tapi bukan itu intinya.
 
-Yang bikin NixOS "immutable" bukan karena sistem-nya dikunci — tapi karena setiap perubahan dikelola lewat Nix store, bukan dilempar langsung ke `/usr` atau `/lib` kayak distro biasa. Package nggak saling overwrite, dependency nggak bentrok, dan setiap "state" sistem bisa di-rollback.
+Yang bikin NixOS "immutable" bukan karena sistem-nya dikunci tapi karena setiap perubahan dikelola lewat Nix store, bukan dilempar langsung ke `/usr` atau `/lib` kayak distro biasa. Package nggak saling overwrite, dependency nggak bentrok, dan setiap "state" sistem bisa di-rollback.
 
 Jadi kalau lu nanya: *"Apakah NixOS benar-benar immutable?"*
 
-Jawabannya: tergantung definisi lu. Tapi yang pasti, cara dia mengelola perubahan jauh lebih ketat — dan lebih aman — dari distro konvensional.
+Jawabannya: tergantung definisi lu. Tapi yang pasti, cara dia mengelola perubahan jauh lebih ketat dan lebih aman dari distro konvensional.
 
 ---
 
@@ -110,9 +110,9 @@ Kalau di satu tempat jalan, kemungkinan besar di tempat lain juga jalan.
 **Jadi, Apakah worth It?*
 
 Gua nggak bakal bilang NixOS itu untuk semua orang. Karena jelas bukan.
-Tapi kalau lu tipe orang yang lebih milih paham sistem daripada sekadar pakai sistem — NixOS itu bukan distro yang ribet. Dia distro yang jujur.
+Tapi kalau lu tipe orang yang lebih milih paham sistem daripada sekadar pakai sistem NixOS itu bukan distro yang ribet. Dia distro yang jujur.
 Dia maksa lu buat ngerti apa yang lu lakuin. Dan di situ justru letak value-nya.
-Gua pribadi nggak nyesel. Justru setelah pakai NixOS, gua lebih ngerti Linux secara keseluruhan — bukan cuma hafal command.
+Gua pribadi nggak nyesel. Justru setelah pakai NixOS, gua lebih ngerti Linux secara keseluruhan bukan cuma hafal command.
 Kalau lu penasaran, coba aja. Worst case: lu balik ke distro lama dengan pemahaman yang lebih dalam. Best case: lu nggak balik-balik lagi.
 
 ---
